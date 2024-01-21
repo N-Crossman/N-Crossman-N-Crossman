@@ -14,17 +14,5 @@ https://code.visualstudio.com/
 
 https://github.com/
 
-## Known Bugs
-There is currently zero known bugs. 
-
-## Installing and Setup
-The required applications needed for setup are 
-* Github
-* Microsoft Visual Code 
-
-## User Manual 
-In order to deploy this on your local system you must clone the github repository.
-
-## Credits and Acknowledgments  
-
-https://docs.google.com/document/d/1itt3VXO92eiZifaj_qIe6gaEwe8p_srH2kWGCM3dyEA/edit
+## Contact me 
+Via email @ noahc1@hotmail.com
