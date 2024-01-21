@@ -1,4 +1,4 @@
-# Hello! Im Noah
+# Hello! I'm Noah
 
 ## A Few Things About Myself
 * My current career involves installing vinyl decking and railings for residential and commercial projects. 
@@ -10,9 +10,9 @@
 * I have experience with PC's and a little bit of HTML. 
 
 ## Built With
-https://code.visualstudio.com/
+ [Visual Studio Code](https://code.visualstudio.com/)
 
-https://github.com/
+[Github](https://github.com/)
 
 ## Contact me 
 Via email @ noahc1@hotmail.com
